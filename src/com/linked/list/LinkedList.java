@@ -3,7 +3,9 @@ package com.linked.list;
 public class LinkedList {
 
 	Node head;
-
+/**
+ *  
+ */
 	public void createLinkedList() {
 
 		head = new Node(0);
