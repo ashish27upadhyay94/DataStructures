@@ -4,9 +4,6 @@ public class LinkedList {
 
 	Node head;
 
-	/***
-	 * Checking once again
-	 */
 	public void createLinkedList() {
 
 		head = new Node(0);
